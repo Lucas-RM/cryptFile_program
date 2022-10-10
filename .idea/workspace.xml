@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="204cd862-aa33-4d21-a83b-b21fbdea1b81" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Fblfiuz526G53vhujfgzCo7rWi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cryptFile_program/venv/Lib" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.cryptFile">
+    <configuration name="cryptFile" type="PythonConfigurationType" factoryName="Python">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Lucas\Documentos\FACULDADE - UNIP\2022\2º SEMESTRE\IPE\APS\untitled\cryptFile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getpass" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getpass.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="h" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/h.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="selecionarArquivo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selecionarArquivo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.selecionarArquivo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="204cd862-aa33-4d21-a83b-b21fbdea1b81" name="Default Changelist" comment="" />
+      <created>1664768769597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664768769597</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="370" y="92" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1664811323251">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="370" y="92" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.690@0.0.1280.690" timestamp="1664811323251" />
+    <state x="359" y="0" key="#cryptFile" timestamp="1664853119626">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="359" y="0" key="#cryptFile/0.0.1280.690@0.0.1280.690" timestamp="1664853119626" />
+    <state x="359" y="0" key="#teste" timestamp="1664853080329">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="359" y="0" key="#teste/0.0.1280.690@0.0.1280.690" timestamp="1664853080329" />
+    <state x="391" y="59" key="FileChooserDialogImpl" timestamp="1664853592733">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="391" y="59" key="FileChooserDialogImpl/0.0.1280.690@0.0.1280.690" timestamp="1664853592733" />
+    <state width="1259" height="231" key="GridCell.Tab.0.bottom" timestamp="1664853677221">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1259" height="231" key="GridCell.Tab.0.bottom/0.0.1280.690@0.0.1280.690" timestamp="1664853677221" />
+    <state width="1259" height="231" key="GridCell.Tab.0.center" timestamp="1664853677205">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1259" height="231" key="GridCell.Tab.0.center/0.0.1280.690@0.0.1280.690" timestamp="1664853677205" />
+    <state width="1259" height="231" key="GridCell.Tab.0.left" timestamp="1664853677205">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1259" height="231" key="GridCell.Tab.0.left/0.0.1280.690@0.0.1280.690" timestamp="1664853677205" />
+    <state width="1259" height="231" key="GridCell.Tab.0.right" timestamp="1664853677205">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1259" height="231" key="GridCell.Tab.0.right/0.0.1280.690@0.0.1280.690" timestamp="1664853677205" />
+    <state width="1259" height="283" key="GridCell.Tab.1.bottom" timestamp="1664846541133">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1259" height="283" key="GridCell.Tab.1.bottom/0.0.1280.690@0.0.1280.690" timestamp="1664846541133" />
+    <state width="1259" height="283" key="GridCell.Tab.1.center" timestamp="1664846541133">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1259" height="283" key="GridCell.Tab.1.center/0.0.1280.690@0.0.1280.690" timestamp="1664846541133" />
+    <state width="1259" height="283" key="GridCell.Tab.1.left" timestamp="1664846541133">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1259" height="283" key="GridCell.Tab.1.left/0.0.1280.690@0.0.1280.690" timestamp="1664846541133" />
+    <state width="1259" height="283" key="GridCell.Tab.1.right" timestamp="1664846541133">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state width="1259" height="283" key="GridCell.Tab.1.right/0.0.1280.690@0.0.1280.690" timestamp="1664846541133" />
+    <state x="141" y="0" width="1088" height="690" key="SettingsEditor" timestamp="1664853544435">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="141" y="0" width="1088" height="690" key="SettingsEditor/0.0.1280.690@0.0.1280.690" timestamp="1664853544435" />
+    <state x="303" y="11" width="672" height="678" key="search.everywhere.popup" timestamp="1664827125365">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="303" y="11" width="672" height="678" key="search.everywhere.popup/0.0.1280.690@0.0.1280.690" timestamp="1664827125365" />
+  </component>
+</project>
